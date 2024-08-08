@@ -1,11 +1,11 @@
 :root {
-  --primary-color: #356aff;
-  --bg-color: #f5f5f5;
-  --light-bg-color: #36023c;
-  --text-color: #111116;
-  --light-text-color: #cdccd1;
-  --light-secoundry-color: #000000;
-  --primary-text-color: #fff;
+  --primary-color: #eeee09;
+  --bg-color: #ffffff;
+  --light-bg-color: #0ec1d1;
+  --text-color: #1c0e0e;
+  --light-text-color: #523a04;
+  --light-secoundry-color: #450433;
+  --primary-text-color: #51044b;
 }
 * {
   margin: 0;
