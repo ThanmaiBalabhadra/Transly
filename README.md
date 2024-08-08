@@ -29,4 +29,4 @@ This project is a simple web application designed to translate text between diff
 
 ### Demo
 
-[Link to live demo](#) _(https://google-transalate-clone.netlify.app/)_
+[Link to live demo](#) _(https://sweet-kitsune-11c60a.netlify.app/)_
