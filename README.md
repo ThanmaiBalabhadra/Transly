@@ -1,4 +1,4 @@
-## Translation App
+## LingoReplica
 
 ### Overview
 
