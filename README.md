@@ -17,6 +17,9 @@ This project is a simple web application designed to translate text between diff
 - HTML
 - CSS
 - JavaScript
+- Ionicons
+- Google Translate API
+- FileReader API
 
 ### How to Use
 
