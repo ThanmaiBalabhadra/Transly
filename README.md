@@ -20,6 +20,7 @@ This project is a simple web application designed to translate text between diff
 - Ionicons
 - Google Translate API
 - FileReader API
+- Netlify (Deployment)
 
 ### How to Use
 
