@@ -1,4 +1,4 @@
-## LingoReplica
+## Transly
 
 ### Overview
 
