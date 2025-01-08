@@ -33,4 +33,4 @@ This project is a simple web application designed to translate text between diff
 
 ### Demo
 
-[Link to live demo] - https://lingoreplica.netlify.app/
+[Link to live demo] - https://translyapp.netlify.app/
